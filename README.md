@@ -2,7 +2,6 @@
 
 Lightweight pipeline orchestrator for Python data projects.
 
-
 > **Important:** This is not a standalone application. This code is built to be imported as a library.
 
 Pairs naturally with [dataconf-manager](https://github.com/MaximeRighini/dataconf-manager)
