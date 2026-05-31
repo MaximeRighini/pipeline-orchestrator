@@ -1,5 +1,8 @@
 # pipeline-orchestrator
 
+![CI](https://github.com/MaximeRighini/pipeline-orchestrator/actions/workflows/ci.yaml/badge.svg)
+![Python](https://img.shields.io/badge/python-3.11+-blue)
+
 Lightweight pipeline orchestrator for Python data projects.
 
 > **Important:** This is not a standalone application. This code is built to be imported as a library.
